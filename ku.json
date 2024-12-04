@@ -1,0 +1,513 @@
+[
+{
+"input": "Who is the Vice Chancellor of the university, and what is their contact information?",
+"output": "The Vice Chancellor is Prof. Dr. Khalid Mehmood Iraqi. Their extension is 245499, and telephone number is 261336-7.",
+"instruction": "You are a chatbot providing information about university officials. Answer the query based on the given university details."
+},
+{
+"input": "Who is responsible for the Directorate of Admissions, and how can they be contacted?",
+"output": "The In-Charge for the Directorate of Admissions is Dr. Saima Akhtar. Their extension is 247999, and telephone number is 261376.",
+"instruction": "You are a chatbot providing information about university officials. Answer the query based on the given university details."
+},
+{
+"input": "Can you provide the details of the Dean for the Faculty of Law?",
+"output": "The Dean for the Faculty of Law is Justice (R) Hassan Feroz. Their extension is 246432, and telephone number is 046762.",
+"instruction": "You are a chatbot providing details about the Deans of Faculties. Answer the query based on the provided university data."
+},
+{
+"input": "Who is the Dean of the Faculty of Science, and do they hold another position?",
+"output": "The Dean of the Faculty of Science is Prof. Dr. Samina Bano. They also serve as the Dean for the Faculty of Engineering. Their extension is 225599, and telephone number is 261077.",
+"instruction": "You are a chatbot providing information about university Deans. Answer the query based on the provided university data."
+},
+{
+"input": "Who is the Convenor of the Prospectus Committee?",
+"output": "The Convenor of the Prospectus Committee is Dr. Saima Akhtar, who is also the In-Charge of the Directorate of Admissions.",
+"instruction": "You are a chatbot providing details about the Prospectus Committee members. Answer the query based on the provided university data."
+},
+{
+"input": "List the members of the Prospectus Committee along with their departments.",
+"output": "1. Prof. Dr. Faiyaz H. M. Vaid - Department of Pharmaceutical Chemistry\n2. Dr. Tanzim ul Firdaus - Department of Urdu\n3. Ms. Samina Qureshi - Department of Mass Communication\n4. Dr. Nosheen Raza - Student Advisor\n5. Dr. Syed Asim Ali - Department of Computer Science\n6. Dr. Shumaila Shafket Ali - Department of English\n7. Ms. Tania Nasir - Department of Visual Studies\n8. Mr. Muhammad Zeeshan Azmat - Deputy Director, Public Relations",
+"instruction": "You are a chatbot providing details about the Prospectus Committee members. Answer the query based on the provided university data."
+},
+{
+"input": "What is the history of the University of Karachi and how was it established?",
+"output": "The University of Karachi was established in 1951 by the Parliament through the 'University of Karachi Act, 1950' as a Federal University. In 1962, it was redefined as a university in the province of Sindh. Initially, it was housed in a compound on Princess Street near Civil Hospital, Karachi, but was later moved to its current expanded site on University Road to accommodate academic and research activities.",
+"instruction": "You are a chatbot providing information about the University of Karachi. Answer the query based on the provided introduction."
+},
+{
+"input": "What academic programs does the University of Karachi offer?",
+"output": "The University of Karachi offers BS and BS 3rd Year programs, as well as MS, M.Phil., Doctorate, diploma, and certificate programs. These programs are available in various faculties, including Arts & Social Sciences, Education, Science, Pharmacy and Pharmaceutical Sciences, Islamic Studies, Management & Administrative Sciences, Engineering, and Law. The university also has an Evening Programme initiated in 1995 to accommodate increasing applicants.",
+"instruction": "You are a chatbot providing information about academic programs at the University of Karachi. Answer the query based on the provided introduction."
+},
+{
+"input": "What is the role of the Quality Enhancement Cell (QEC) at the University of Karachi?",
+"output": "The Quality Enhancement Cell (QEC) at the University of Karachi aims to strengthen education and research standards. Its main objective is to introduce self-assessment programs across all disciplines offered by the university.",
+"instruction": "You are a chatbot providing information about the Quality Enhancement Cell (QEC) at the University of Karachi. Answer the query based on the provided introduction."
+},
+{
+"input": "How does the University of Karachi support affiliated colleges and their students?",
+"output": "The University of Karachi, as an affiliating and examining institution, has granted affiliation to about 145 colleges and institutions. It conducts examinations for approximately 150,000 students studying in these colleges, prepares their results, and awards degrees.",
+"instruction": "You are a chatbot providing information about how the University of Karachi supports affiliated colleges and students. Answer the query based on the provided introduction."
+},
+{
+"input": "How is the University of Karachi ranked internationally?",
+"output": "The University of Karachi is recognized as one of the top universities in the world. Its academic excellence is highlighted through its inclusion in annual rankings conducted by prominent agencies such as Times Higher Education and Quacquarelli Symonds (QS), UK.",
+"instruction": "You are a chatbot providing information about the international ranking of the University of Karachi. Answer the query based on the provided introduction."
+},
+{
+"input": "What degree programs are offered by the University of Karachi?",
+"output": "The University of Karachi offers the following degree programs: Doctor of Pharmacy, Doctor of Physical Therapy, B.A., LL.B. (Hons.), and Architecture (five years); BS, B.B.A., B.Ed. (Hons.), and B.E. (four years); and BS 3rd Year and BS (Business Administration) (two years).",
+"instruction": "You are a chatbot providing information about degree programs offered by the University of Karachi. Answer the query based on the provided admissions data."
+},
+{
+"input": "Who are some of the notable alumni of the University of Karachi?",
+"output": "Notable alumni of the University of Karachi include Dr. Abdul Qadeer Khan and Prof. Dr. Atta-ur-Rehman, who are celebrated for their contributions to higher education and research.",
+"instruction": "You are a chatbot providing information about notable alumni of the University of Karachi. Answer the query based on the provided admissions data."
+},
+{
+"input": "How does the University of Karachi prepare students for the job market?",
+"output": "The University of Karachi is a research-oriented institution offering courses with a futuristic vision across disciplines. This approach helps students secure positions in competitive job markets both nationally and internationally.",
+"instruction": "You are a chatbot providing information about how the University of Karachi prepares students for the job market. Answer the query based on the provided admissions data."
+},
+{
+"input": "What faculties are available at the University of Karachi?",
+"output": "The University of Karachi has the following faculties: Arts & Social Sciences, Education, Islamic Studies, Law, Pharmacy & Pharmaceutical Sciences, Management & Administrative Sciences, Engineering, Science, and Medicine.",
+"instruction": "You are a chatbot providing information about the faculties at the University of Karachi. Answer the query based on the provided admissions data."
+},
+{
+"input": "What modern teaching techniques does the University of Karachi use?",
+"output": "The University of Karachi uses modern teaching techniques and research facilities to impart quality education in a variety of disciplines, ensuring students gain a comprehensive and competitive education.",
+"instruction": "You are a chatbot providing information about the teaching techniques at the University of Karachi. Answer the query based on the provided admissions data."
+},
+{
+"input": "What are the categories for admission to BS and BS 3rd Year Programs at the University of Karachi?",
+"output": "Admissions are granted in the categories of K, S, and P, as per approval of the Academic Council.",
+"instruction": "You are a chatbot providing information about the admission policy of the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "Are admissions at the University of Karachi based on merit?",
+"output": "Yes, admissions are granted purely on merit, even for reserved seats.",
+"instruction": "You are a chatbot providing information about the admission criteria at the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "What reserved seats are available for admissions at the University of Karachi?",
+"output": "Reserved seats are available for candidates from the Province of Sindh (other than Karachi), Balochistan, Azad Jammu & Kashmir, Northern Areas, Children of Armed Forces personnel, dependents of University employees (spouse and children), International students, Self-financed students, Special persons, Sports persons, and Advocate Children Quota.",
+"instruction": "You are a chatbot providing information about reserved seats for admissions at the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "How are candidates for reserved seats from Northern Areas and Azad Jammu & Kashmir selected?",
+"output": "Admissions for reserved seats from Northern Areas and Azad Jammu & Kashmir are granted only to eligible candidates who qualify on merit and have been nominated by the Kashmir Affairs, Northern Areas Division, Government of Pakistan, Islamabad.",
+"instruction": "You are a chatbot providing information about reserved seat admissions at the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "What is the process for admission on reserved seats for children of Armed Forces personnel?",
+"output": "Admissions on reserved seats for children of Armed Forces personnel are granted only on nominations from the General Head Quarters of the Armed Forces of Pakistan.",
+"instruction": "You are a chatbot providing information about reserved seat admissions for children of Armed Forces personnel at the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "What verification is required for admission on reserved seats for special persons?",
+"output": "Admission on reserved seats for special persons is granted only after medical examination and verification from the Social Welfare Department, Government of Sindh, and/or a civil surgeon.",
+"instruction": "You are a chatbot providing information about the admission process for special persons at the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "How are admissions on sports seats verified at the University of Karachi?",
+"output": "Admissions on sports seats are granted only after the verification of eligibility as per pre-determined standards from the appropriate authorities.",
+"instruction": "You are a chatbot providing information about the verification process for sports seat admissions at the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "What is the eligibility criteria for admission on Advocate Children Quota Seats?",
+"output": "Admissions on Advocate Children Quota Seats are granted only after verification of eligibility as per pre-determined standards from the concerned authorities.",
+"instruction": "You are a chatbot providing information about Advocate Children Quota admissions at the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "Are students with a Masters or BS degree eligible for admission in BS 3rd Year programs?",
+"output": "Students who have already obtained a Masters or BS four-year degree are eligible to apply for admission in BS 3rd Year programs, but only in the evening program.",
+"instruction": "You are a chatbot providing information about the eligibility for BS 3rd Year programs at the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "What forms must candidates for reserved or nomination seats submit?",
+"output": "All candidates for reserved or nomination seats must submit 'Reserved Seat Forms' separately. Without these forms, their admission application for reserved seats will not be entertained.",
+"instruction": "You are a chatbot providing information about the requirements for reserved or nomination seat admissions at the University of Karachi. Answer the query based on the provided admission policy data."
+},
+{
+"input": "What are the categories for admissions on open merit seats at the University of Karachi?",
+"output": "The categories for admissions on open merit seats are 'K,' 'S,' and 'P.' These refer to the location of the applicant's prior educational institutions: 'K' for Karachi, 'S' for Sindh (excluding Karachi), and 'P' for outside the Province of Sindh.",
+"instruction": "You are a chatbot providing information about admissions on open merit seats at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "What defines Category 'K' for admissions at the University of Karachi?",
+"output": "Category 'K' includes applicants who have completed their Secondary School Certificate (SSC), Higher Secondary Certificate (HSC), or graduation from educational institutions located in Karachi, recognized by or affiliated with the University of Karachi. Additionally, 5% of open merit seats in each department are reserved for applicants who graduated from other degree-awarding institutions in Karachi recognized by the University of Karachi.",
+"instruction": "You are a chatbot providing information about Category 'K' admissions at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "Who falls under Category 'S' for admissions at the University of Karachi?",
+"output": "Category 'S' includes applicants who have completed at least one of their SSC, HSC, or Bachelor’s degree examinations from a recognized educational institution in the Province of Sindh, excluding Karachi.",
+"instruction": "You are a chatbot providing information about Category 'S' admissions at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "Who falls under Category 'P' for admissions at the University of Karachi?",
+"output": "Category 'P' includes applicants who have completed at least one of their SSC, HSC, or Bachelor’s degree examinations from a recognized educational institution outside the Province of Sindh.",
+"instruction": "You are a chatbot providing information about Category 'P' admissions at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "How are preferences determined for admissions among the 'K,' 'S,' and 'P' categories?",
+"output": "Preference is first given to Category 'K' candidates. If there are vacant seats after considering 'K' candidates, then Category 'S' candidates are considered. If seats are still available, Category 'P' candidates are considered.",
+"instruction": "You are a chatbot providing information about the preference order for admissions categories at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "Can students change their admission category from 'S' or 'P' to 'K' at the University of Karachi?",
+"output": "Yes, students can apply to change their category from 'S' or 'P' to 'K' if they meet specific conditions such as having parents with Karachi domicile, being married to a permanent resident of Karachi, or meeting other criteria.",
+"instruction": "You are a chatbot providing information about category changes for admissions at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "What is required for a student whose parents have a Karachi domicile to change their category to 'K'?",
+"output": "Students whose parent (father or mother) has a Karachi domicile but have passed prerequisite exams abroad or from another Pakistani board or university must provide the parent's domicile certificate and CNIC showing a permanent Karachi address.",
+"instruction": "You are a chatbot providing information about category change requirements for students with parents having Karachi domicile. Answer the query based on the provided data."
+},
+{
+"input": "Can a student whose parents work for the government apply for a category change to 'K'?",
+"output": "Yes, if the parent is employed by the Federal or Sindh Governments, Autonomous or Semi-autonomous bodies, Government Corporations, or Armed Forces, and was posted or transferred to Karachi within the last 3 years (for BS program) or 5 years (for BS 3rd Year program), the student can apply for a category change. They must provide transfer, deputation, or appointment letters along with proof of continuing education in Karachi after the parent's transfer.",
+"instruction": "You are a chatbot providing information about category changes for students whose parents are government employees. Answer the query based on the provided data."
+},
+{
+"input": "What are the requirements for students who completed initial education in Karachi but later studied outside Karachi to change to 'K' category?",
+"output": "Students who completed their SSC/Matric and HSC/Intermediate in Karachi but later studied outside Karachi can apply for a category change to 'K.' They must provide their CNIC, PRC indicating Karachi, and their parents' CNIC and domicile showing Karachi as the permanent address. Candidates under 18 must submit a scanned copy of their 'B'-Form.",
+"instruction": "You are a chatbot providing information about category change requirements for students with initial education in Karachi. Answer the query based on the provided data."
+},
+{
+"input": "Can a married applicant change their category to 'K' if their spouse is a permanent resident of Karachi?",
+"output": "Yes, married applicants can change their category to 'K' if their spouse is a permanent resident of Karachi. They must provide a copy of the 'Nikah naama' along with their spouse's domicile and CNIC showing a permanent Karachi address.",
+"instruction": "You are a chatbot providing information about category changes for married applicants at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "How can applicants apply for a change of category to 'K' at the University of Karachi?",
+"output": "Applicants must submit an application on plain paper along with the required documents, including originals and copies, that verify their eligibility for a category change. This must be attached to their admission form.",
+"instruction": "You are a chatbot providing information about the application process for category changes at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "Does the category system apply to test-based admissions at the University of Karachi?",
+"output": "No, the category system does not apply to admissions in test-based departments conducted by the University of Karachi.",
+"instruction": "You are a chatbot providing information about the applicability of the category system for test-based admissions at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "Are self-financed seats available for BS and BS 3rd Year programs at the University of Karachi?",
+"output": "Yes, the University of Karachi offers self-financed seats for both BS and BS 3rd Year programs. Details about seat distribution and payment terms are provided in Appendix-O on Pages 124-125.",
+"instruction": "You are a chatbot providing information about self-financed seat admissions at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "What are the criteria for students seeking admission on reserved seats at the University of Karachi?",
+"output": "Students must meet the eligibility criteria for the University and the specific department. Merit lists for reserved seats are prepared based on departmental recommendations.",
+"instruction": "You are a chatbot providing information about reserved seat admissions at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "How many reserved seats are allocated for students from Sindh (excluding Karachi) at the University of Karachi?",
+"output": "There are 90 reserved seats for students from Sindh (excluding Karachi). Students must have a Sindh (other than Karachi) domicile and must have completed their entire education from that area.",
+"instruction": "You are a chatbot providing information about reserved seats for students from Sindh (excluding Karachi). Answer the query based on the provided data."
+},
+{
+"input": "How many reserved seats are available for students from Balochistan at the University of Karachi?",
+"output": "There are 60 reserved seats for students from Balochistan. They must meet the same conditions as those applied to students from Sindh (excluding Karachi).",
+"instruction": "You are a chatbot providing information about reserved seats for students from Balochistan at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "Who can apply for the reserved seats for University of Karachi employees and their dependents?",
+"output": "Additional 2% of the total seats in each department are reserved for University employees and their dependents, including self, spouse, sons, daughters, real brothers, and sisters.",
+"instruction": "You are a chatbot providing information about reserved seats for University of Karachi employees and their dependents. Answer the query based on the provided data."
+},
+{
+"input": "Are there reserved seats for Advocate Children Quota at the University of Karachi?",
+"output": "Yes, 5% of the total seats in the Department of School of Law are reserved for the Advocate Children Quota.",
+"instruction": "You are a chatbot providing information about reserved seats for Advocate Children Quota at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "Are additional seats allocated for BS 3rd Year program applicants at the University of Karachi?",
+"output": "Yes, an additional 5% of seats are allocated for applicants who have completed two years of B.Sc. (Pass)/BS from the University of Karachi with degree conversion, and for those who have passed their three years’ B.Sc. (Honours) but have not completed their Masters.",
+"instruction": "You are a chatbot providing information about additional reserved seats for BS 3rd Year program applicants at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "What are the eligibility criteria for students applying to the BS 3rd Year program with a degree conversion?",
+"output": "Students must have passed all papers from the First Semester to the Third Semester and must have seat numbers starting from H-21, B-21, or EP-22. Forms will be rejected if these criteria are not met.",
+"instruction": "You are a chatbot providing information about eligibility criteria for BS 3rd Year program applicants with degree conversion. Answer the query based on the provided data."
+},
+{
+"input": "Are there reserved seats for students applying for the BS 3rd Year program who have passed three years of B.Sc. (Honours)?",
+"output": "Yes, an additional 5% of seats are allocated for students who have passed three years of B.Sc. (Honours) but have not completed their Masters. Students must meet specific criteria such as passing all papers from the First to Fifth Semester.",
+"instruction": "You are a chatbot providing information about reserved seats for BS 3rd Year program applicants who have completed three years of B.Sc. (Honours). Answer the query based on the provided data."
+},
+{
+"input": "What is the admission process for the Department of Visual Studies at the University of Karachi?",
+"output": "Admissions to the Department of Visual Studies are granted based on an Aptitude Test.",
+"instruction": "You are a chatbot providing information about the admission process for the Department of Visual Studies at the University of Karachi. Answer the query based on the provided data."
+},
+{
+"input": "What are the eligibility criteria for admission to the Faculties of Science, Arts & Social Sciences, Education, Islamic Studies, Management & Administrative Sciences, Pharmacy, Engineering, and Law at Karachi University?",
+"output": "Admissions are granted based on the eligibility criteria of the respective department. Grace/Condoned marks are not considered.",
+"instruction": "You are a chatbot providing information about eligibility criteria for admissions at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "Is a candidate with less than 45% marks in the prerequisite examination eligible for admission to Karachi University?",
+"output": "No, a candidate with less than 45% marks in the prerequisite examination or with a 3rd division is not eligible for admission.",
+"instruction": "You are a chatbot providing information about eligibility for admission to Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "Are additional marks awarded to Hafiz-e-Quran candidates applying for BS programs at Karachi University?",
+"output": "Yes, Hafiz-e-Quran candidates are awarded an additional 20 marks for BS programs after producing a valid Hifz-e-Quran certificate, provided they do not have less than 45% marks in their Intermediate or equivalent examination.",
+"instruction": "You are a chatbot providing information about the eligibility benefits for Hafiz-e-Quran candidates at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "Can a candidate with an already obtained Masters or BS 3rd Year degree apply for re-admission to Karachi University?",
+"output": "No, candidates who have already obtained a Masters or BS 3rd Year degree are not eligible for re-admission or fresh admission to any BS 3rd Year Program. Similarly, candidates with a Bachelors degree cannot apply for re-admission to any BS Program.",
+"instruction": "You are a chatbot providing information about re-admission policies for candidates at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "Are candidates who passed their prerequisite examinations more than 5 years ago eligible for admission to Karachi University?",
+"output": "Yes, 3% of seats in each department are allocated for candidates who passed their prerequisite examinations more than 5 years ago.",
+"instruction": "You are a chatbot providing information about the eligibility of candidates who passed their exams more than 5 years ago. Answer the query based on the provided data."
+},
+{
+"input": "What should candidates with degrees from private sector institutions in Pakistan or abroad do to apply for admission to Karachi University?",
+"output": "Candidates must obtain equivalence for their degrees or certificates from the Karachi University Equivalence Committee or Inter Board Chairman Committee (IBCC) before the scheduled admission date.",
+"instruction": "You are a chatbot providing information about admission requirements for candidates with degrees from private institutions. Answer the query based on the provided data."
+},
+{
+"input": "What is the eligibility criterion for international students applying to Karachi University?",
+"output": "International students must demonstrate English proficiency with a minimum of 5 IELTS bands and pass the prerequisite examination. Students with less than 5 bands must attend a Remedial English Language Proficiency Course after admission.",
+"instruction": "You are a chatbot providing information about eligibility criteria for international students at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "Are admissions at Karachi University provisional?",
+"output": "Yes, all admissions are provisional and subject to the verification of documents. Admissions made on fake documents will be canceled, and legal action will be taken.",
+"instruction": "You are a chatbot providing information about the provisional nature of admissions at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "Where can applicants find details about the opening of admissions, availability of forms, and submission deadlines for Karachi University?",
+"output": "Details about admissions, forms, and submission deadlines are announced on the University of Karachi's official website www.uok.edu.pk and through newspaper advertisements.",
+"instruction": "You are a chatbot providing information about the admission process at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "Where can applicants obtain admission forms for Karachi University?",
+"output": "Admission forms are available on the website www.uokadmission.edu.pk, along with relevant instructions and demonstrations for guidance.",
+"instruction": "You are a chatbot providing guidance about obtaining admission forms for Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What should applicants do if they make a mistake in their admission form for Karachi University?",
+"output": "Applicants should carefully follow the instructions provided. The University of Karachi will not be held liable for any mistakes made by the applicant in the admission form.",
+"instruction": "You are a chatbot providing information about responsibilities when filling out admission forms for Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "How many department choices can applicants list in their Karachi University admission form?",
+"output": "Applicants can mention a maximum of five department choices in their admission form, in order of preference.",
+"instruction": "You are a chatbot providing information about the number of department choices allowed on the admission form for Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "Can applicants submit multiple forms for the same category of admission at Karachi University?",
+"output": "No, applicants are not allowed to submit more than one admission form for the same category of admission. If multiple forms are submitted, all forms will be cancelled.",
+"instruction": "You are a chatbot providing information about admission form submission rules for Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "How will successful candidates for Karachi University admissions be notified?",
+"output": "The provisional merit list of successful candidates will be displayed on the University of Karachi's website on the dates mentioned in the admission schedule.",
+"instruction": "You are a chatbot providing information about the notification process for successful candidates at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What documents must university employees submit when applying for reserved seats at Karachi University?",
+"output": "University employees must submit a statement with essential details of their employment, certified by the Head of their department.",
+"instruction": "You are a chatbot providing information about the documentation required for university employees applying on reserved seats at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What medical documentation is required for special persons applying on reserved seats at Karachi University?",
+"output": "Special persons must submit a medical certificate issued by the Social Welfare Department, Government of Sindh, and/or civil surgeons.",
+"instruction": "You are a chatbot providing information about the medical documentation required for special persons applying for reserved seats at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What is the eligibility criterion for students applying on sports quota seats at Karachi University?",
+"output": "Students applying on sports quota seats must upload sports certificates and other supporting documents. They should have played as members of Pakistan Junior/Senior Team, Winner/Runner-up in National Championships, Pakistan University/Board Team, Winner/Runner-up in Inter-Provincial Championships, or Winner/Runner-up in Inter-University/Inter Board Tournaments.",
+"instruction": "You are a chatbot providing information about the sports quota eligibility for Karachi University admissions. Answer the query based on the provided data."
+},
+{
+"input": "Where are the admission lists for reserved seats displayed for Karachi University?",
+"output": "The admission lists for reserved seats are prepared and displayed separately by the University of Karachi.",
+"instruction": "You are a chatbot providing information about the display of reserved seat admission lists for Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What should candidates do if their names appear in the admission merit list for Karachi University?",
+"output": "Candidates whose names appear in the merit list must complete all admission formalities within the stipulated time. Failure to do so will result in the lapse of their admission without any claims being entertained.",
+"instruction": "You are a chatbot guiding students about next steps after their names appear in the admission merit list at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What documents are required to complete the admission process at Karachi University?",
+"output": "Candidates must submit the following:\n1. Color printout of the filled-in Enrolment Form submitted online.\n2. Original Marks Sheet of the last examination (not returned).\n3. Original character certificate from the Head of the institution last attended or from a gazetted officer for external candidates.\n4. Copy of the candidate's CNIC or parents' CNIC if the candidate is under 18 years of age.\n5. Copy of the SSC/Matric and HSC/Intermediate certificates.\n6. Original Payment Receipt of the prescribed fee.",
+"instruction": "You are a chatbot providing information about the required documents for completing admission at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What is the enrolment process after completing admission formalities at Karachi University?",
+"output": "After completing admission formalities, candidates must apply for enrolment by filling an enrolment form available upon producing the original receipt of the Admission Fee. Candidates who passed their last examination outside Karachi need to submit a Migration Certificate, and international students must submit an IBCC equivalence certificate.",
+"instruction": "You are a chatbot guiding students about the enrolment process at Karachi University after completing admission formalities. Answer the query based on the provided data."
+},
+{
+"input": "What happens if a candidate secures admission at Karachi University using misinformation or fake documents?",
+"output": "If a candidate secures admission using misinformation or fake documents, their admission will be cancelled at any time, the fee will not be refunded, and punitive action will be taken, including debarment from any educational institution for three years.",
+"instruction": "You are a chatbot providing information about the consequences of using fake documents for admission at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What is the eligibility criterion for promotion to the next higher class or degree programme at Karachi University?",
+"output": "To get promoted to the next higher class or degree programme, students must clear 80% of their courses during each academic year.",
+"instruction": "You are a chatbot explaining the promotion criteria for students at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What is the duration of various degree programmes offered by Karachi University?",
+"output": "The duration of the degree programmes at Karachi University is as follows:\n- Two years for BS 3rd Year and BS (BBA).\n- Four years for BS/BBA/BE/B.Ed.(Hons.)/Visual Studies.\n- Five years for Doctor of Pharmacy, Doctor of Physical Therapy, BA LLB (Hons.), and Visual Studies (Architecture).",
+"instruction": "You are a chatbot providing information about the duration of degree programmes at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "How is the academic year structured at Karachi University?",
+"output": "The academic year at Karachi University is divided into two semesters as per the academic calendar.",
+"instruction": "You are a chatbot providing information about the academic structure of Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What is the minimum attendance required for students to appear in examinations at Karachi University?",
+"output": "Students must maintain at least 75% attendance to be eligible to appear in examinations. For further details, consult the 'Semester Examination Rules' booklet available at the University Bookshop.",
+"instruction": "You are a chatbot explaining the attendance requirements at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What amenities does Karachi University provide to enhance the campus life of its students?",
+"output": "Karachi University provides world-class laboratories, libraries, research institutes, and centers aimed at fostering international standards in education. The University ensures a multifaceted research environment and diversified campus life to help students compete globally.",
+"instruction": "You are a chatbot explaining the amenities provided by Karachi University to enhance campus life. Answer the query based on the provided data."
+},
+{
+"input": "What are the responsibilities of the Office of the Students' Advisor at Karachi University?",
+"output": "The Office of the Students' Advisor engages students in co-curricular activities to make them responsible citizens and enhance their skills. It supervises seven student societies, organizes events like Students' Week, and provides academic, career, and self-development support. It also maintains discipline and collaborates with organizations through MoUs to enhance student skills.",
+"instruction": "You are a chatbot describing the role and responsibilities of the Office of the Students' Advisor at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What student societies exist at Karachi University, and what is their purpose?",
+"output": "Karachi University has several student societies, including the Arts and Culture Society, Theatre and Drama Society, Debate and Discussions Society, Civic and Social Responsibility Society, Music Society, Sports Society, and Inclusive Students Society. These societies aim to foster positive social engagement and skill development, helping students reach their full potential. They participate in regional, national, and international competitions, representing the University with distinction.",
+"instruction": "You are a chatbot listing and describing the purpose of student societies at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What events does the Office of the Students' Advisor organize for students at Karachi University?",
+"output": "The Office of the Students' Advisor organizes various events, including Students' Week for co-curricular activities, as well as significant programmes like Youm-e-Mustafa and Youm-e-Hussain, which see participation from hundreds of students annually.",
+"instruction": "You are a chatbot describing events organized by the Office of the Students' Advisor at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "How does the Office of the Students' Advisor help students at Karachi University with their careers?",
+"output": "The Office of the Students' Advisor provides academic assistance, career planning guidance, self-reflection opportunities, and access to resources for exploring options. It also works with external organizations through MoUs to facilitate skill development and career enhancement.",
+"instruction": "You are a chatbot explaining how the Office of the Students' Advisor supports career planning for students at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What is the purpose of the Arts and Culture Society (ACS) at Karachi University?",
+"output": "The Arts and Culture Society (ACS) at Karachi University aims to bring together various forms of art, literature, and culture to promote peace and tolerance on campus and in society. It provides a platform for students to engage in creative and artistic activities, celebrating diversity and inclusivity.",
+"instruction": "You are a chatbot explaining the purpose of the Arts and Culture Society (ACS) at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What types of events does the Arts and Culture Society (ACS) organize at Karachi University?",
+"output": "ACS organizes a variety of events such as Art Baithaks, Creative Writing Workshops, Literary Baithaks, Photography and Painting Competitions, and Comic Book Launches. These activities aim to foster inclusivity, develop interest in art and literature, and provide a creative outlet for students.",
+"instruction": "You are a chatbot listing the events organized by the Arts and Culture Society (ACS) at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What is the vision behind the Arts and Culture Society (ACS) at Karachi University?",
+"output": "The vision of ACS is to integrate all forms of art, literature, and culture to cultivate peace and tolerance within the campus and society. It emphasizes inclusivity, celebrates diverse ideologies and cultural expressions, and aims to engage students in meaningful creative activities.",
+"instruction": "You are a chatbot explaining the vision of the Arts and Culture Society (ACS) at Karachi University. Answer the query based on the provided data."
+},
+{
+"input": "What is the primary objective of the Karachi University Debating Society (KUDS)?",
+"output": "The Karachi University Debating Society (KUDS) focuses on promoting debates, discussions, and public speaking. Its objective is to polish students' speaking skills and prepare them to become future leaders by providing them with a platform to participate in competitive and thought-provoking forums.",
+"instruction": "You are a chatbot describing the objective of the Karachi University Debating Society (KUDS). Answer the query based on the provided data."
+},
+{
+"input": "How does the Karachi University Debating Society (KUDS) prepare students for competitions?",
+"output": "KUDS organizes weekly training and mock sessions to prepare new members for debates and declamation contests. These sessions are designed to enhance students' public speaking and argumentative skills, ensuring they perform well in city, provincial, and national competitions.",
+"instruction": "You are a chatbot explaining how the Karachi University Debating Society (KUDS) trains its members. Answer the query based on the provided data."
+},
+{
+"input": "What are some achievements of the Karachi University Debating Society (KUDS) in 2023?",
+"output": "In 2023, KUDS members won numerous competitions, including APDC contests at IoBM, SSUET, and PAF Academy Risalpur; The Great Debate by the British High Commission; Sindh University Jamshoro All Pakistan Trilingual Declamation Contest; and ZAB VI All Karachi Parliamentary Debate Contest, among others.",
+"instruction": "You are a chatbot listing the achievements of the Karachi University Debating Society (KUDS) in 2023. Answer the query based on the provided data."
+},
+{
+"input": "What types of competitions has the Karachi University Debating Society (KUDS) participated in?",
+"output": "KUDS has participated in various competitions, including All Pakistan Debates and Declamation Contests (APDC) hosted by institutions like IoBM, SSUET, and Pakistan Marine Academy, as well as The Great Debate by the British High Commission and other trilingual and parliamentary debate contests.",
+"instruction": "You are a chatbot explaining the types of competitions Karachi University Debating Society (KUDS) has participated in. Answer the query based on the provided data."
+},
+{
+"input": "What is the purpose of the Karachi University Theater and Drama Society (KUTDS)?",
+"output": "The Karachi University Theater and Drama Society (KUTDS) aims to revive and promote the culture of theater and drama as a tool for positive societal change. It provides a platform for students to create and perform dramas that educate the masses and spread impactful messages.",
+"instruction": "You are a chatbot explaining the purpose of the Karachi University Theater and Drama Society (KUTDS). Answer the query based on the provided data."
+},
+{
+"input": "What objectives does KUTDS strive to achieve?",
+"output": "KUTDS strives to produce innovative and educational student theaters that address important societal issues. The society encourages students to express their ideas through drama, helping to spread messages that might otherwise be difficult to convey, while contributing to societal development.",
+"instruction": "You are a chatbot describing the objectives of KUTDS. Answer the query based on the provided data."
+},
+{
+"input": "What kind of events has KUTDS organized or participated in?",
+"output": "KUTDS has organized various drama events and represented Karachi University at multiple drama competitions across Pakistan. Notable achievements include performances at the Karachi Arts Council and winning the national drama festival held in Islamabad, marking the first time a University of Karachi team participated in a national-level theater event.",
+"instruction": "You are a chatbot summarizing the events organized and participated in by KUTDS. Answer the query based on the provided data."
+},
+{
+"input": "What was KUTDS's achievement at the national drama festival in Islamabad?",
+"output": "KUTDS won the national drama festival held in Islamabad, receiving tremendous appreciation. This was a historic achievement as it marked the first time a team from the University of Karachi participated in a national-level theater event.",
+"instruction": "You are a chatbot highlighting KUTDS's achievement at the national drama festival in Islamabad. Answer the query based on the provided data."
+},
+{
+"input": "How does KUTDS contribute to societal development?",
+"output": "KUTDS contributes to societal development by facilitating students' creative ideas and encouraging them to use theater and drama to educate the public, spread awareness on important issues, and promote positive social change.",
+"instruction": "You are a chatbot explaining how KUTDS contributes to societal development. Answer the query based on the provided data."
+},
+{
+"input": "What is the history and collection of the University’s central library?",
+"output": "The University’s central library, built in 1964 and renamed 'Dr. Mahmud Husain Library' in 1976, is one of the largest in the country. It houses a collection of 500,000 books, periodicals, references, and historical documents, including the personal book collection of Quaid-e-Azam Muhammad Ali Jinnah. Each department also has its own seminar library.",
+"instruction": "You are a chatbot explaining the history and collection of the University's central library. Answer the query based on the provided data."
+},
+{
+"input": "What is the Latif Ebrahim Jamal (LEJ) Digital Library?",
+"output": "The Latif Ebrahim Jamal (LEJ) Digital Library is a high-tech library that provides updated access to e-books and journals.",
+"instruction": "You are a chatbot explaining what the Latif Ebrahim Jamal (LEJ) Digital Library offers. Answer the query based on the provided data."
+},
+{
+"input": "How does the Book Bank at the University work?",
+"output": "The Book Bank at the University allows students to borrow books for one academic year, with books issued after validating their identity cards. The borrowed books must be returned at the end of the academic session.",
+"instruction": "You are a chatbot explaining how the Book Bank system operates at the University. Answer the query based on the provided data."
+},
+{
+"input": "What is the purpose of the Centralized Science Laboratory?",
+"output": "The Centralized Science Laboratory is equipped with modern and state-of-the-art equipment to facilitate research in various scientific fields.",
+"instruction": "You are a chatbot explaining the purpose of the Centralized Science Laboratory. Answer the query based on the provided data."
+},
+{
+"input": "What are the food facilities on campus?",
+"output": "The campus has one centralized cafeteria where students from different disciplines gather. Additionally, there are smaller canteens and food outlets offering affordable food and drinks.",
+"instruction": "You are a chatbot explaining the food facilities available on campus. Answer the query based on the provided data."
+},
+{
+"input": "What accommodation facilities are available for students?",
+"output": "The University provides on-campus accommodation for international male students in the Boys' hostel and for international female students in a separate Girls' hostel. Limited accommodation is also available for local and international female students on a first-come, first-served basis. Students must submit an application with the admission form for accommodation.",
+"instruction": "You are a chatbot explaining the accommodation facilities available for students at the University. Answer the query based on the provided data."
+},
+{
+"input": "What transport facilities are available for students?",
+"output": "The University provides a limited pick-and-drop service for students from designated city stations. The schedule for transport routes is announced at the beginning of each semester and is also available on the University’s website.",
+"instruction": "You are a chatbot explaining the transport facilities available for students. Answer the query based on the provided data."
+},
+{
+"input": "What sports activities are offered by the University?",
+"output": "The University offers inter-university, inter-provincial, and international level sports activities. It provides grounds for cricket, hockey, and football, along with a well-maintained gymnasium for indoor games such as table tennis, basketball, volleyball, and badminton.",
+"instruction": "You are a chatbot explaining the sports activities offered by the University. Answer the query based on the provided data."
+},
+{
+"input": "What healthcare services are available at the University?",
+"output": "The University has a clinic with five medical officers and well-trained paramedical staff. First aid is readily available in case of an emergency.",
+"instruction": "You are a chatbot explaining the healthcare services available at the University. Answer the query based on the provided data."
+},
+{
+"input": "What is the purpose of the Sardar Yasin Malik Professional Development Centre (SYMPDC)?",
+"output": "The Sardar Yasin Malik Professional Development Centre (SYMPDC) aims to develop professional skills through training workshops, conferences, interactive sessions, and e-learning programs. It focuses on capacity building for staff, students, and professionals in the industrial and corporate sectors.",
+"instruction": "You are a chatbot explaining the purpose and activities of the Sardar Yasin Malik Professional Development Centre (SYMPDC). Answer the query based on the provided data."
+},
+{
+"input": "What skill enhancement programs are offered at the Sardar Yasin Malik Professional Development Centre (SYMPDC)?",
+"output": "The SYMPDC offers skill enhancement programs to ensure that academic and practical qualifications do not become obsolete. These programs are available to individuals of all ages, education levels, and occupations, helping them update and polish their skills.",
+"instruction": "You are a chatbot explaining the skill enhancement programs offered by the Sardar Yasin Malik Professional Development Centre (SYMPDC). Answer the query based on the provided data."
+}
+]
+
