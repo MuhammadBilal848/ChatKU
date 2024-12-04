@@ -1,5 +1,5 @@
 # Karachi-University-LLM
 Contains llm that is fine-tuned on karachi university prospectus
 
-[![Watch the video](https://github.com/MuhammadBilal848/Karachi-University-LLM/blob/main/thumbnail.jpg)](https://github.com/MuhammadBilal848/Karachi-University-LLM/blob/main/demo.webm)
-
+# Demo:
+[demo.webm](https://github.com/user-attachments/assets/7d620c90-954e-434d-9815-461bcfc73596)
